@@ -1,16 +1,34 @@
-## Hi there 👋
+## 👋 Hey there! I'm Sushant Jha  
+💻 **Aspiring Software Engineer** | 🚀 Passionate about **Web Development & Tech**  
 
-<!--
-**Sushantd07/Sushantd07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me  
+- 🎓 Pursuing **B.E. in Information Technology** at **Thakur College of Engineering and Technology**  
+- 🔹 Learning & building projects with **HTML, CSS, JavaScript, React, and Tailwind CSS**  
+- 🎯 Focused on **Software Development, Frontend Engineering, and Problem-Solving**  
 
-Here are some ideas to get you started:
+## 🚀 What I Do  
+- 🔹 **Frontend Development** – Crafting responsive & user-friendly UIs  
+- 🔹 **Project Building** – Developing real-world applications  
+- 🔹 **Continuous Learning** – Exploring new technologies  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Tech Stack  
+
+### 🔹 Frontend Technologies  
+- HTML  
+- CSS  
+- JavaScript  
+- React  
+- Tailwind CSS  
+- Bootstrap  
+- SASS  
+- TypeScript  
+
+### 🔹 Tools & Platforms  
+- Git  
+- GitHub  
+- VS Code  
+- Figma  
+
+## 📫 Let's Connect  
+📧 Email: **jha.sushant06@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/sushant-jha-61a4412b9/) 
